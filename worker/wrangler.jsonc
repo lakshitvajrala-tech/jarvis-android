@@ -1,0 +1,9 @@
+{
+  "name": "jarvis-backend",
+  "main": "src/index.js",
+  "compatibility_date": "2026-06-01",
+  "vars": {
+    "ALLOWED_ORIGIN": "https://lakshitvajrala-tech.github.io",
+    "GEMINI_MODEL": "gemini-3.8-flash"
+  }
+}
